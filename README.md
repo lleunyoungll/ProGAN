@@ -4,7 +4,7 @@ A clean, simple and readable implementation of ProGAN in PyTorch. I've tried to 
 
 
 ### Download pretrained weights
-Download pretrained weights [here](https://github.com/aladdinpersson/Machine-Learning-Collection/releases/download/1.0/ProGAN_weights.zip).
+Download pretrained weights [here](https://drive.google.com/file/d/1fdzMzILjzTfqjl-vsUz9lnU6uwvdKl-2/view?usp=sharing).
 
 Extract the zip file and put the pth files in the directory with all the python files. Make sure you put LOAD_MODEL=True in the config.py file.
 
